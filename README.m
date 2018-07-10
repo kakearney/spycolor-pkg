@@ -75,7 +75,7 @@ colorbar;
 % Community contributions to this package are welcome!
 % 
 % To report bugs, please submit
-% <https://github.com/kakearney/example-pkg/issues an issue> on GitHub and
+% <https://github.com/kakearney/spycolor-pkg/issues an issue> on GitHub and
 % include:  
 % 
 % * your operating system

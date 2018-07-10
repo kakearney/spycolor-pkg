@@ -128,7 +128,7 @@ colorbar;
 Community contributions to this package are welcome!
 
 
-To report bugs, please submit [an issue](https://github.com/kakearney/example-pkg/issues) on GitHub and include:
+To report bugs, please submit [an issue](https://github.com/kakearney/spycolor-pkg/issues) on GitHub and include:
 
 
 
