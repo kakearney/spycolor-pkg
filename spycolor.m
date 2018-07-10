@@ -80,8 +80,10 @@ as = a(~isemp);
 
 if isequal(size(sz),size(a))
     szs = sz(~isemp);
-else
+elseif isscalar(sz)
     szs = sz;
+else
+    error('sz input must either match the size of input a or be a scalar');
 end
 
 % NaN coordinates (if applicable)
